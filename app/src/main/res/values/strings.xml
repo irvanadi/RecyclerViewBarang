@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RView</string>
+
+
+    <string-array name="menu_barang">
+        <item>Pensil</item>
+        <item>Bolpoin</item>
+        <item>Penghapus</item>
+    </string-array>
+
+    <integer-array name="harga_barang">
+        <item>5000</item>
+        <item>3000</item>
+        <item>2000</item>
+    </integer-array>
+
+    <string-array name="img_barang">
+        <item>@drawable/ic_dialer_sip_black_24dp</item>
+        <item>@drawable/ic_dialer_sip_black_24dp</item>
+        <item>@drawable/ic_dialer_sip_black_24dp</item>
+    </string-array>
+
+</resources>
